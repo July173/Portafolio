@@ -8,7 +8,7 @@ export const About = () => {
         Software Developer
       </h3>
       <div className="flex">
-      <p className="text-3xl pl-10  font-serif w-4/6 space-x-5">
+      <p className="text-3xl pl-10  font-serif w-3/4 space-y-8  ">
         Soy desarrolladora de software en proceso con experiencia en tecnologías
         como JavaScript, CSS y React, entre otras. Me considero responsable,
         dedicada y siempre con ganas de aprender más. Me apasiona crear
